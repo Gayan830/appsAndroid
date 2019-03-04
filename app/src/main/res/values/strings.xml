@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">noteApp</string>
+    <string name="note_titile">Note title</string>
+    <string name="this_is_a_note">This is a note....</string>
+</resources>
